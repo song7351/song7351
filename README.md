@@ -5,7 +5,7 @@
 <!--
 **song7351/song7351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![song7351's GitHub stats](https://github-readme-stats.vercel.app/api?username=song7351&show_icons=true&theme=radical)
+![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi&show_icons=true&theme=radical)
 
 
 Here are some ideas to get you started:
