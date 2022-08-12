@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 
 
-![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi&show_icons=true&theme=radical)
+![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=song7356&show_icons=true&theme=radical)
 
 <!--
 **song7351/song7351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
